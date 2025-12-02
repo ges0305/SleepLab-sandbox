@@ -44,8 +44,8 @@ SleepLabBot guides users through a structured, medically‑informed questionnair
 │  • Heroku Postgres (prod)                                                  │
 │  • SQLite (local dev)                                                      │
 │                                                                            │
-│  PDF Delivery                                                 │
-│  • Pre‑uploaded diagnosis PDFs (rule‑based selection)                       │
+│  PDF Delivery                                                              │
+│  • Pre‑uploaded diagnosis PDFs (rule‑based selection)                      │
 │  • Telegram file delivery                                                  │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘

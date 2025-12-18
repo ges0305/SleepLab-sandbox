@@ -7,7 +7,7 @@ A production-grade Telegram assistant for sleep diagnostics and habit coaching. 
 
 
 ### Demo (Loom)
-- Walkthrough video: [link to Loom] (replace with your recording)
+- Walkthrough video: https://www.loom.com/share/5d5d15164d5a45dcba01daa947cce515
 
 
 ## Executive Summary

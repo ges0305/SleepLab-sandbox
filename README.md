@@ -134,10 +134,10 @@ heroku run -a <app> --no-tty -- python -u -m scripts.user_status --user <id> --s
 
 
 ## My Role (Owner / IC)
-- Product: Journey design (L0/L1/L2), pricing flows, delayed delivery UX, error states
-- Tech: Architecture, database schema, webhook design, scheduler reliability
-- Ops: Heroku deployment, troubleshooting, test fixtures, documentation
-- QA: Manual/CLI-based smoke tests, state introspection, proactive monitoring
+- Product: Journey design (L0/L1/L2) / UX flow, Figma screens, pricing flows, delayed delivery UX, texts & PDF's desing, testing, bug fixing
+- Tech: Architecture, database schema, webhook design, scheduler reliability (AI-paired)
+- Ops: Heroku deployment, troubleshooting, test fixtures, documentation (with AI-paired)
+- QA: Manual/CLI-based smoke tests, state introspection, proactive monitoring (with AI-paired)
 
 
 ## Lessons Learned

@@ -8,7 +8,7 @@ A production-grade Telegram assistant for sleep diagnostics and habit coaching. 
 
 ### Demo (Loom)
 - Walkthrough video: https://www.loom.com/share/5d5d15164d5a45dcba01daa947cce515
-
+  
 
 ## Executive Summary
 SleepLabBot guides users through a structured, medically‑informed questionnaire (L0/L1/L2), delivers a personalized PDF diagnosis selected from pre‑uploaded PDFs, and orchestrates delayed delivery with reminders. It supports paid flows (promo codes, direct payments, Tilda → Robokassa), robust idempotency, and operational tooling for smoke tests and user state inspection on Heroku.

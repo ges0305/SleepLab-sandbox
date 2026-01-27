@@ -3,7 +3,7 @@ This is a demo of ready-to-market project - a Telegram assistant that helps solv
 
 ## SleepLabBot 
 
-A production-grade Telegram assistant for sleep diagnostics and habit coaching. Built using Cursor to manage full development cycle: from initial logic & workflow design, documentation, managing backlog & prioritization (MoSCoW), iteration - to deployment with DB logic, scheduling, notifications, payment integrations.
+A production-grade Telegram assistant for diagnostics of sleep problems to provide personalized plan. Built using Cursor to manage full development cycle: from initial logic & workflow design, documentation, managing backlog & prioritization (MoSCoW), iteration - to deployment with DB logic, scheduling, notifications, payment integrations.
 
 
 ### Demo (Loom)

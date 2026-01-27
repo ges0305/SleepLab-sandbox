@@ -1,5 +1,5 @@
-# SleepLab-sandbox
-This is a demo of an sandbox project - a Telegram assistant that helps solving sleep problems.
+# SleepLab-Telegram bot
+This is a demo of ready-to-market project - a Telegram assistant that helps solving sleep problems.
 
 ## SleepLabBot 
 

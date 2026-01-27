@@ -19,7 +19,6 @@ SleepLabBot guides users through a structured, medically‑informed questionnair
 - Deterministic, idempotent delivery of diagnosis (instant and delayed flows)
 - Resilient scheduling through APScheduler (Heroku dyno-friendly)
 - Operator tooling to set up fixtures, smoke-test critical paths, and inspect user state
-- Clean separation between “full app” vs “light” CLI config for stability
 
 
 ## System Architecture

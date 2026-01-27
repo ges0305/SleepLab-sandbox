@@ -1,9 +1,9 @@
-# SleepLab-Telegram bot
+# SleepLab - Telegram bot
 This is a demo of ready-to-market project - a Telegram assistant that helps solving sleep problems.
 
 ## SleepLabBot 
 
-A production-grade Telegram assistant for sleep diagnostics and habit coaching. Built as a sandbox to transition into Product/Startup Ops with end‑to‑end ownership: product design, technical architecture, payments, operations, and reliability.
+A production-grade Telegram assistant for sleep diagnostics and habit coaching. Built using Cursor to manage full development cycle: from initial logic & workflow design, documentation, managing backlog & prioritization (MoSCoW), iteration - to deployment with DB logic, scheduling, notifications, payment integrations.
 
 
 ### Demo (Loom)
